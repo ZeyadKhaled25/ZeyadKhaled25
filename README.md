@@ -8,11 +8,6 @@ I build robots that can see and make decisions in industrial environments: compu
 
 **Project HELIOS**, a modular autonomous inspection rover for combined-cycle power plants. It navigates with ROS 2, reads analog gauges with YOLOv8, and checks worker PPE compliance. Code is being prepared for publication.
 
-## Selected repositories
-
-- [Plotly-dashboards](https://github.com/ZeyadKhaled25/Plotly-dashboards): interactive data dashboards in Plotly
-- [Diabetes prediction](https://github.com/ZeyadKhaled25/-Diabetes-Prediction-using-Logistic-Regression--Decision-Tree--and-Random-Forest): Logistic Regression, Decision Tree, and Random Forest on the Pima Indians Diabetes dataset
-- [Pandas](https://github.com/ZeyadKhaled25/Pandas-): introduction to pandas for data analysis and visualization
 
 ## Tech stack
 
